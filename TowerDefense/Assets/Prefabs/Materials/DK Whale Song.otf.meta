@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: aa0047e54a1a84845bb4af694e64315e
+timeCreated: 1491991337
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DK Whale Song
+  fontNames:
+  - DK Whale Song
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

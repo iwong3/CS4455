@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Weapons\PlayerShooting.cs">
+    <Files>
+      <File FileName="Assets\Scripts\ArmyMan.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager1.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\NexusStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MouseLook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Weapons\PlayerShooting.cs" Line="98" Column="4" />
+      <File FileName="Assets\Scripts\Traps\TrapScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Traps\SpikeScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\UserInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Weapons\Weapon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManagement\GameController.cs" Line="14" Column="16" />
+      <File FileName="Assets\Scripts\Weapons\WeaponSwitcher.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
